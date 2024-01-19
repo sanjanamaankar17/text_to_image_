@@ -1,7 +1,3 @@
-!pip install tkinter
-!pip install customtkinter
-!pip install --upgrade pip
-!pip install --upgrade diffusers 
 import tkinter as tk
 import customtkinter as ctk 
 
